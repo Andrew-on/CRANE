@@ -17,7 +17,7 @@ data (missing measurements), and includes an estimation of the reliability or un
 
 >2. Online version : [Online](doi)
 
-### Summary of Population      
+## Summary of Population      
 
 |Population|Male&nbsp;|&nbsp;Female|
 |-----------|----------|----------|
