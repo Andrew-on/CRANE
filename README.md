@@ -19,6 +19,45 @@ data (missing measurements), and includes an estimation of the reliability or un
 
 >2. Online version : [Online](doi)
 
+## User Manual
+The software shared here is the Docker version of the model. To use the Docker image, the user shall first install Docker on their system. Then
+
+### **On Windows:**
+
+To load the image:
+  Open Docker Desktop on Windows
+  Open a Command Prompt or PowerShell and change the directory to the folder that contains the image file
+  Run
+> docker load -i crane-shiny.tar
+> 
+> docker run -d --name crane-shiny -p 8123:8123 crane-shiny
+
+Open your web browser and load http://localhost:8123/
+
+To stop and remove the image:
+> docker stop crane-shiny
+> 
+> docker rm crane-shiny
+
+---
+### **On Linux:**
+
+To load the image:
+
+> sudo systemctl start docker
+>
+> sudo docker load -i crane-shiny.tar
+>
+> sudo docker run -d --name crane-shiny -p 8123:8123 crane-shiny
+
+Open your web browser and load http://localhost:8123/
+
+To stop and remove the image:
+> sudo docker stop crane-shiny
+>
+> sudo docker rm crane-shiny
+
+
 ## Summary of Population      
 
 |Population|Male&nbsp;|&nbsp;Female|
