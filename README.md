@@ -13,7 +13,7 @@ it provides probabilistic estimates of affinities for each ancestry population, 
 data (missing measurements), and includes an estimation of the reliability or uncertainty associated with each prediction.
 
 ## Versions of CRANE
->1. Docker version : [Docker]([doi](https://zenodo.org/records/15979320))
+>1. Docker version : [Docker](https://zenodo.org/records/15979320)
 
 >2. Online version : [Online](doi)
 
