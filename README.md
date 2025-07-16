@@ -14,6 +14,7 @@ Designed as a user-friendly platform for researchers and forensic anthropologist
 it provides probabilistic estimates of affinities for each ancestry population, capably handles incomplete craniometric 
 data (missing measurements), and includes an estimation of the reliability or uncertainty associated with each prediction.
 
+---
 ## Versions of CRANE
 >1. Docker version : [Docker](https://zenodo.org/records/15979320)
 
@@ -39,7 +40,6 @@ To stop and remove the image:
 > 
 > docker rm crane-shiny
 
----
 ### **On Linux:**
 
 To load the image:
@@ -57,7 +57,7 @@ To stop and remove the image:
 >
 > sudo docker rm crane-shiny
 
-
+---
 ## Summary of Population      
 
 |Population|Male&nbsp;|&nbsp;Female|
@@ -97,7 +97,7 @@ To stop and remove the image:
 |&nbsp;&nbsp;Buryats, Siberia|&nbsp;&nbsp;55 &nbsp;|&nbsp; 54 &nbsp;|
 |&nbsp;&nbsp;Inuit, Inugsuk culture, Greenland|&nbsp;&nbsp;53 &nbsp;|&nbsp; 55 &nbsp;|
 
-
+---
 For more technical details and methodological background, please refer to our publication:  
 ## Citation
 Liu, X. (2025). CRANE (CRaniometric ANcestry Estimator) Docker Image (Version 202507). Zenodo.[ https://doi.org/10.5281/zenodo.15979320](https://doi.org/10.5281/zenodo.15979320)
