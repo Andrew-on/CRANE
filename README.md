@@ -58,7 +58,7 @@ data (missing measurements), and includes an estimation of the reliability or un
 
 
 For more technical details and methodological background, please refer to our publication:  
-DOI: [Liu, X. (2025). CRANE (CRaniometric ANcestry Estimator) Docker Image (Version 202507). Zenodo. https://doi.org/10.5281/zenodo.15979320](https://doi.org/10.5281/zenodo.15979320)
+DOI: Liu, X. (2025). CRANE (CRaniometric ANcestry Estimator) Docker Image (Version 202507). Zenodo.[ https://doi.org/10.5281/zenodo.15979320](https://doi.org/10.5281/zenodo.15979320)
 
 ## ***Acknowledgements***
 
