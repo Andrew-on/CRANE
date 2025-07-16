@@ -20,7 +20,7 @@ data (missing measurements), and includes an estimation of the reliability or un
 
 >2. Online version : [Online](doi)
 
-## User Manual (Docker version)
+## CRANE User Manual (Docker version)
 The software shared here is the Docker version of the model. To use the Docker image, the user shall first install Docker on their system. Then
 
 ### **On Windows:**
