@@ -17,7 +17,7 @@ data (missing measurements), and includes an estimation of the reliability or un
 
 ---
 ## Versions of CRANE
->1. Docker version : [Docker](https://doi.org/10.5281/zenodo.15979319)
+>1. Docker version : [Docker](https://doi.org/10.5281/zenodo.21694153)
 
 >2. Online version : [Online](doi)
 
@@ -101,7 +101,7 @@ To stop and remove the image:
 ---
 For more technical details and methodological background, please refer to our publication:  
 ## Citation
-Liu, X. (2025). CRANE (CRaniometric AffiNity Estimator) Docker Image. Zenodo.[ https://doi.org/10.5281/zenodo.15979319](https://doi.org/10.5281/zenodo.15979319)
+Liu, X.& Pang, J. (2026). CRANE (CRaniometric AffiNity Estimator) Docker Image (Version 202607) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.21694153](https://doi.org/10.5281/zenodo.21694153)
 
 ## ***Acknowledgements***
 
