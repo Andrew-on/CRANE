@@ -1,6 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21694153.svg)](https://doi.org/10.5281/zenodo.21694153)
 
 # **CRANE** (***CR***aniometric ***A***ffi***N***ity ***E***stimator) 
+# **CRANE** (<span style="color:#00008B">*CR*</span>aniometric <span style="color:#00008B">*A*</span>ffi<span style="color:#00008B">*N*</span>ity <span style="color:#00008B">*E*</span>stimator)
 > A Deep Learning-Powered Estimator for Population Affinity based on Craniometric Features
 ## Introduction
 Welcome to **CRANE** (CRaniometric AffiNity Estimator), a deep learning model to provide fine-grained estimations of population affinity using craniometric data. 
