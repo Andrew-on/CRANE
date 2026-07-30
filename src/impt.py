@@ -1,9 +1,9 @@
-## Log-Transformed + Imputation + Standardization##
+## Imputation + Log-Transform + Standardization ##
 import numpy as np
 import pandas as pd
 def impt(dd):
     #dd = pd.read_csv("./Demo_data_for_Shiny-App_test_Howells.csv")
-    NA_count = len(dd.isna().sum())
+    NA_count = int(dd.iloc[:, 1:].isna().sum().sum())
     imp_main = pd.read_csv("./Howells.imp.org.main.csv")
     main_mean = np.log(imp_main).mean()
     main_std = np.log(imp_main).std()

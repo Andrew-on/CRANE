@@ -1,22 +1,23 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15979320.svg)](https://doi.org/10.5281/zenodo.15979320)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15979319.svg)](https://doi.org/10.5281/zenodo.15979319)
 
-# **CRANE** (***CR***aniometric ***AN***cestry ***E***stimator) 
-> A Deep Learning-Powered Estimator for Population Ancestry Affiliation based on Craniometric Features
+# **CRANE** (***CR***aniometric ***A***ffi***N***ity ***E***stimator) 
+> A Deep Learning-Powered Estimator for Population Affinity based on Craniometric Features
 ## Introduction
-Welcome to **CRANE** (CRaniometric ANcestry Estimator), a deep learning model to provide fine-grained estimations of ancestry using craniometric data. 
-The goal of CRANE is to enhance accuracy (with an average predictive accuracy of 94%) and utility of craniometric ancestry estimation. 
-By providing more precise and reliable information, CRANE seeks to be an invaluable asset in forensic practice, 
-as well as other anthropological research. 
+Welcome to **CRANE** (CRaniometric AffiNity Estimator), a deep learning model to provide fine-grained estimations of population affinity using craniometric data. 
+The goal of CRANE is to enhance the accuracy (with an average predictive accuracy of 94%) and utility of craniometric population affinity estimation. 
+CRANE is trained on the Howells reference sample, which represents historical and pre-modern populations. 
+Because craniofacial morphology undergoes secular change, CRANE is intended for bioarchaeological and population-historical 
+research and is **not validated for forensic casework involving modern decedents**. 
 The model was trained using Howells' craniometric data and aims to estimate a user-provided cranium's affinity 
-to each of the 26 worldwide ancestry populations (see a ***Summary of the Populations*** below). 
+to each of the 26 worldwide reference populations (see a ***Summary of the Populations*** below). 
 
-Designed as a user-friendly platform for researchers and forensic anthropologists, CRANE offers several key advantages: 
-it provides probabilistic estimates of affinities for each ancestry population, capably handles incomplete craniometric 
+Designed as a user-friendly platform for biological anthropologists and bioarchaeologists, CRANE offers several key advantages: 
+it provides probabilistic estimates of affinity for each reference population, capably handles incomplete craniometric 
 data (missing measurements), and includes an estimation of the reliability or uncertainty associated with each prediction.
 
 ---
 ## Versions of CRANE
->1. Docker version : [Docker](https://zenodo.org/records/15979320)
+>1. Docker version : [Docker](https://doi.org/10.5281/zenodo.15979319)
 
 >2. Online version : [Online](doi)
 
@@ -100,7 +101,7 @@ To stop and remove the image:
 ---
 For more technical details and methodological background, please refer to our publication:  
 ## Citation
-Liu, X. (2025). CRANE (CRaniometric ANcestry Estimator) Docker Image (Version 202507). Zenodo.[ https://doi.org/10.5281/zenodo.15979320](https://doi.org/10.5281/zenodo.15979320)
+Liu, X. (2025). CRANE (CRaniometric AffiNity Estimator) Docker Image. Zenodo.[ https://doi.org/10.5281/zenodo.15979319](https://doi.org/10.5281/zenodo.15979319)
 
 ## ***Acknowledgements***
 
