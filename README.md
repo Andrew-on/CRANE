@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15979319.svg)](https://doi.org/10.5281/zenodo.15979319)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21694153.svg)](https://doi.org/10.5281/zenodo.21694153)
 
 # **CRANE** (***CR***aniometric ***A***ffi***N***ity ***E***stimator) 
 > A Deep Learning-Powered Estimator for Population Affinity based on Craniometric Features
