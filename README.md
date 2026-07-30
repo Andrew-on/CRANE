@@ -101,9 +101,9 @@ To stop and remove the image:
 ---
 For more technical details and methodological background, please refer to our publication: 
 
-Pang, J., & Liu, X. (2023). Evaluation of missing data imputation methods for human osteometric measurements. American Journal of Biological Anthropology, 181(4), 666–676. [https://doi.org/10.1002/ajpa.24787](https://doi.org/10.1002/ajpa.24787)
+[1] Pang, J., & Liu, X. (2023). Evaluation of missing data imputation methods for human osteometric measurements. American Journal of Biological Anthropology, 181(4), 666–676. [https://doi.org/10.1002/ajpa.24787](https://doi.org/10.1002/ajpa.24787)
 
-Pang, J., Dong, Y., Turner, C., Li, C., & Liu, X. (2022). Analysis of data consistency identifies measurement abnormality in Howells' craniometric test data set. American Journal of Biological Anthropology, 179(4), 687–692. [https://doi.org/10.1002/ajpa.24631](https://doi.org/10.1002/ajpa.24631)
+[2] Pang, J., Dong, Y., Turner, C., Li, C., & Liu, X. (2022). Analysis of data consistency identifies measurement abnormality in Howells' craniometric test data set. American Journal of Biological Anthropology, 179(4), 687–692. [https://doi.org/10.1002/ajpa.24631](https://doi.org/10.1002/ajpa.24631)
 
 ## Citation
 Liu, X.& Pang, J. (2026). CRANE (CRaniometric AffiNity Estimator) Docker Image (Version 202607) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.21694153](https://doi.org/10.5281/zenodo.21694153)
