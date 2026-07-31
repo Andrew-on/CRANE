@@ -608,4 +608,4 @@ dependencies:
       - xarray==2023.1.0
       - xarray-einstats==0.5.1
       - xyzservices==2024.9.0
-prefix: /home/pang/anaconda3/envs/crane_env
+prefix: /home/user/anaconda3/envs/crane_env
